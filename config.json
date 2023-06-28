@@ -1,0 +1,9 @@
+{
+	"username": "vitsmalldataset@gmail.com", 
+	"password": "hifamlashokzfxlk",
+	"name": "Tanmay Jain",
+	"responseMessage": "Vacation Autoresponder generated response",
+    "imap_servr" : "imap.gmail.com",
+    "smtp_servr": "smtp.gmail.com",
+    "smtp_port": "587"
+}
